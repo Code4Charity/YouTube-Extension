@@ -29,6 +29,21 @@
 	src: url(../fonts/Roboto-Medium.ttf);
 }
 
+@font-face {
+  font-family: 'Brush Script MT';
+  src: url(../fonts/BrushScriptMT.ttf);
+}
+
+@font-face {
+  font-family: 'Brush Script Std';
+  src: url(../fonts/BrushScriptStd.ttf);
+}
+
+
+/* Added font Brush Script MT, Brush Script Std, cursive to the YouTube page. */
+body {
+    font-family: 'Brush Script MT', 'Brush Script Std', cursive;
+}
 
 /*--------------------------------------------------------------
 # BASE
